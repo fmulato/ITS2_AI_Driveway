@@ -1,6 +1,10 @@
 ## Rear-View Camera Object Detection and Alert System
 ### ITS – Assessment 2
 
+## Project Title Proposal:  
+### "AI Driven Driveway Safety System: Preventing Child Accidents with Computer Vision"   
+
+
 ### Overview
 This project implements an object detection and alert system designed for use with vehicle rear-view cameras. Its purpose is to enhance safety during low-speed manoeuvring and parking, by detecting the presence of pedestrians, children, and animals within the vehicle’s path, and issuing visual and audible alerts to the driver.
 
